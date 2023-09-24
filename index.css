@@ -112,6 +112,7 @@ table {
     padding-top: 43px;
     padding-left: 133px;
     padding-right: 133px;
+    margin-bottom: 67px;
 }
 .main-popular{
     text-align: center;
@@ -134,4 +135,24 @@ table {
 }
 .photo{
     
+}
+.Son22{
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: 17px;
+}
+.Son22__SubText{
+    font-size: 32px;
+    font-weight: 200;
+    width: 531px;
+    height: 194px;
+    margin: 0 auto;
+    margin-bottom: 85px;
+}
+.text-center{
+    text-align: center;
+}
+.section2-div{
+    display: flex;
+    justify-content: center;
 }
