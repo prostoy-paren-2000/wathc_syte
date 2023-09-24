@@ -108,3 +108,30 @@ table {
     margin-top: -120px;
     margin-left: -180px;
 }
+.main-section{
+    padding-top: 43px;
+    padding-left: 133px;
+    padding-right: 133px;
+}
+.main-popular{
+    text-align: center;
+    font-size: 24px;
+}
+.main-models{
+    text-align: center;
+    font-size: 72px;
+    line-height: 81px;
+    margin-bottom: 84px;
+}
+.section-photo{
+    display: flex;
+    justify-content: center;
+    background-color: #F8F8F8;
+    width: 417px;
+    height: 630px;
+    margin: 0 auto;
+    padding: 110px 60px 110px 71px;
+}
+.photo{
+    
+}
